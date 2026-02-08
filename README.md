@@ -4,7 +4,7 @@ A Django-based blog application with features for creating, managing, and displa
 
 ## Demo Video
 
-https://github.com/user-attachments/Django%20rec.mp4
+https://github.com/Shylesh1640/Django-Project/Django%20rec.mp4
 
 [📹 Watch Demo Video](Django%20rec.mp4)
 
