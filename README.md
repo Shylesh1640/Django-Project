@@ -2,14 +2,9 @@
 
 A Django-based blog application with features for creating, managing, and displaying blog posts.
 
-## Demo Video
+## Demo
 
-[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-Click_Here-red?style=for-the-badge&logo=youtube)](Django%20rec.mp4)
-
-> 💡 **To display the video directly on GitHub:**
-> 1. Upload your video to YouTube or convert to GIF
-> 2. For GIF: `ffmpeg -i "Django rec.mp4" -vf "fps=10,scale=800:-1" demo.gif`
-> 3. Then replace this section with: `![Demo](demo.gif)`
+![Demo](demo.gif)
 
 ## Project Structure
 
