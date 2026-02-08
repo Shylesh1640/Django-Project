@@ -9,10 +9,6 @@ A Django-based blog application with features for creating, managing, and displa
   Your browser does not support the video tag.
 </video>
 
-
-
-> **Note:** Click the link above to view the project demo video.
-
 ## Project Structure
 
 - **myapp/** - Main Django project directory
