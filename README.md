@@ -4,9 +4,11 @@ A Django-based blog application with features for creating, managing, and displa
 
 ## Demo Video
 
-<video width="700" controls>
-  <source src="Django rec.mp4" type="video/mp4">
+<video controls width="800">
+  <source src="django rec.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+
 
 
 > **Note:** Click the link above to view the project demo video.
