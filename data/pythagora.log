@@ -1,0 +1,632 @@
+2026-01-27T16:15:26.070Z INFO Is remote: false
+2026-01-27T16:15:26.071Z INFO Starting Local. Installation path: /pythagora/
+2026-01-27T16:15:26.073Z INFO [MainProvider] Creating new MainProvider instance...
+2026-01-27T16:15:26.074Z INFO [TabsManager] Code view listener set up at initialization
+2026-01-27T16:15:26.078Z INFO Installation path exists: /pythagora/
+2026-01-27T16:15:26.079Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-01-27T16:15:26.086Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-01-27T16:15:26.087Z INFO Database initialized successfully
+2026-01-27T16:15:26.089Z INFO [Migration] Checking for database migration...
+2026-01-27T16:15:27.008Z INFO [Migration] No migration needed
+2026-01-27T16:56:50.844Z INFO [TabsManager] First file opened, triggering split view
+2026-01-27T16:56:50.848Z INFO [MainProvider] First file opened, creating split view
+2026-01-27T16:57:15.427Z INFO [TabsManager] First file opened, triggering split view
+2026-01-27T16:57:15.428Z INFO [MainProvider] First file opened, creating split view
+2026-01-27T16:58:03.357Z INFO [TabsManager] First file opened, triggering split view
+2026-01-27T16:58:03.358Z INFO [MainProvider] First file opened, creating split view
+2026-01-27T17:01:03.039Z INFO [TabsManager] First file opened, triggering split view
+2026-01-27T17:01:03.040Z INFO [MainProvider] First file opened, creating split view
+2026-01-27T17:06:02.047Z INFO [TabsManager] First file opened, triggering split view
+2026-01-27T17:06:02.048Z INFO [MainProvider] First file opened, creating split view
+2026-01-27T17:17:54.376Z INFO Closing entire Pythagora extension...
+2026-01-27T17:17:54.483Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-01-28T00:02:59.170Z INFO Is remote: false
+2026-01-28T00:02:59.172Z INFO Starting Local. Installation path: /pythagora/
+2026-01-28T00:02:59.178Z INFO [MainProvider] Creating new MainProvider instance...
+2026-01-28T00:02:59.180Z INFO [TabsManager] Code view listener set up at initialization
+2026-01-28T00:02:59.185Z INFO Installation path exists: /pythagora/
+2026-01-28T00:02:59.187Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-01-28T00:02:59.193Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-01-28T00:02:59.194Z INFO Database initialized successfully
+2026-01-28T00:02:59.196Z INFO [Migration] Checking for database migration...
+2026-01-28T00:02:59.921Z INFO [Migration] No migration needed
+2026-01-28T00:06:32.267Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T00:06:32.269Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T00:06:57.236Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T00:06:57.237Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T00:14:54.978Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T00:14:54.981Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T00:15:11.262Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T00:15:11.262Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T00:15:13.534Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T00:15:13.534Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T00:45:37.707Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T00:45:37.708Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T01:20:21.439Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T01:20:21.441Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T01:21:03.030Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T01:21:03.031Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T01:21:25.096Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T01:21:25.097Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T12:24:10.335Z INFO Is remote: false
+2026-01-28T12:24:10.337Z INFO Starting Local. Installation path: /pythagora/
+2026-01-28T12:24:10.339Z INFO [MainProvider] Creating new MainProvider instance...
+2026-01-28T12:24:10.341Z INFO [TabsManager] Code view listener set up at initialization
+2026-01-28T12:24:10.342Z INFO Installation path exists: /pythagora/
+2026-01-28T12:24:10.344Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-01-28T12:24:10.351Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-01-28T12:24:10.352Z INFO Database initialized successfully
+2026-01-28T12:24:10.353Z INFO [Migration] Checking for database migration...
+2026-01-28T12:24:10.985Z INFO [Migration] No migration needed
+2026-01-28T12:26:14.848Z INFO [TabsManager] First file opened, triggering split view
+2026-01-28T12:26:14.849Z INFO [MainProvider] First file opened, creating split view
+2026-01-28T13:31:08.251Z INFO Closing entire Pythagora extension...
+2026-01-28T13:31:08.403Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-01-29T13:49:53.549Z INFO Is remote: false
+2026-01-29T13:49:53.551Z INFO Starting Local. Installation path: /pythagora/
+2026-01-29T13:49:53.552Z INFO [MainProvider] Creating new MainProvider instance...
+2026-01-29T13:49:53.553Z INFO [TabsManager] Code view listener set up at initialization
+2026-01-29T13:49:53.556Z INFO Installation path exists: /pythagora/
+2026-01-29T13:49:53.557Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-01-29T13:49:53.562Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-01-29T13:49:53.563Z INFO Database initialized successfully
+2026-01-29T13:49:53.564Z INFO [Migration] Checking for database migration...
+2026-01-29T13:49:53.854Z INFO [Migration] No migration needed
+2026-01-29T13:49:58.158Z INFO [TabsManager] First file opened, triggering split view
+2026-01-29T13:49:58.162Z INFO [MainProvider] First file opened, creating split view
+2026-01-29T13:52:53.653Z INFO [TabsManager] First file opened, triggering split view
+2026-01-29T13:52:53.655Z INFO [MainProvider] First file opened, creating split view
+2026-01-29T16:08:27.939Z INFO Closing entire Pythagora extension...
+2026-01-29T16:08:28.067Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-01-30T13:14:24.927Z INFO Is remote: false
+2026-01-30T13:14:24.929Z INFO Starting Local. Installation path: /pythagora/
+2026-01-30T13:14:24.930Z INFO [MainProvider] Creating new MainProvider instance...
+2026-01-30T13:14:24.933Z INFO [TabsManager] Code view listener set up at initialization
+2026-01-30T13:14:24.958Z INFO Installation path exists: /pythagora/
+2026-01-30T13:14:24.959Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-01-30T13:14:24.968Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-01-30T13:14:24.969Z INFO Database initialized successfully
+2026-01-30T13:14:24.970Z INFO [Migration] Checking for database migration...
+2026-01-30T13:14:25.603Z INFO [Migration] No migration needed
+2026-01-30T13:14:29.382Z INFO [TabsManager] First file opened, triggering split view
+2026-01-30T13:14:29.384Z INFO [MainProvider] First file opened, creating split view
+2026-01-30T13:32:39.240Z INFO [TabsManager] First file opened, triggering split view
+2026-01-30T13:32:39.245Z INFO [MainProvider] First file opened, creating split view
+2026-01-30T13:33:34.652Z INFO [TabsManager] First file opened, triggering split view
+2026-01-30T13:33:34.653Z INFO [MainProvider] First file opened, creating split view
+2026-01-30T13:33:37.392Z INFO [TabsManager] First file opened, triggering split view
+2026-01-30T13:33:37.393Z INFO [MainProvider] First file opened, creating split view
+2026-01-30T15:30:08.808Z INFO Closing entire Pythagora extension...
+2026-01-30T15:30:08.896Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-01-31T10:56:26.161Z INFO Is remote: false
+2026-01-31T10:56:26.163Z INFO Starting Local. Installation path: /pythagora/
+2026-01-31T10:56:26.164Z INFO [MainProvider] Creating new MainProvider instance...
+2026-01-31T10:56:26.166Z INFO [TabsManager] Code view listener set up at initialization
+2026-01-31T10:56:26.168Z INFO Installation path exists: /pythagora/
+2026-01-31T10:56:26.169Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-01-31T10:56:26.177Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-01-31T10:56:26.178Z INFO Database initialized successfully
+2026-01-31T10:56:26.179Z INFO [Migration] Checking for database migration...
+2026-01-31T10:56:27.321Z INFO [Migration] No migration needed
+2026-01-31T10:56:30.765Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T10:56:30.766Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T10:59:34.358Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T10:59:34.360Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:02:09.740Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:02:09.741Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:02:10.568Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:02:10.569Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:02:11.937Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:02:11.938Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:02:13.360Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:02:13.360Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:02:30.261Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:02:30.261Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:10:40.254Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:10:40.255Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:15:54.685Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:15:54.686Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T11:15:56.536Z INFO [TabsManager] First file opened, triggering split view
+2026-01-31T11:15:56.537Z INFO [MainProvider] First file opened, creating split view
+2026-01-31T18:51:05.555Z INFO Closing entire Pythagora extension...
+2026-01-31T18:51:05.636Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-01T06:02:16.404Z INFO Is remote: false
+2026-02-01T06:02:16.406Z INFO Starting Local. Installation path: /pythagora/
+2026-02-01T06:02:16.407Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-01T06:02:16.409Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-01T06:02:16.411Z INFO Installation path exists: /pythagora/
+2026-02-01T06:02:16.413Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-01T06:02:16.423Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-01T06:02:16.424Z INFO Database initialized successfully
+2026-02-01T06:02:16.427Z INFO [Migration] Checking for database migration...
+2026-02-01T06:02:17.173Z INFO [Migration] No migration needed
+2026-02-01T06:05:13.947Z INFO [TabsManager] First file opened, triggering split view
+2026-02-01T06:05:13.948Z INFO [MainProvider] First file opened, creating split view
+2026-02-01T06:05:17.695Z INFO [TabsManager] First file opened, triggering split view
+2026-02-01T06:05:17.696Z INFO [MainProvider] First file opened, creating split view
+2026-02-01T09:27:29.261Z INFO Closing entire Pythagora extension...
+2026-02-01T09:27:29.354Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-02T12:55:10.161Z INFO Is remote: false
+2026-02-02T12:55:10.166Z INFO Starting Local. Installation path: /pythagora/
+2026-02-02T12:55:10.179Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-02T12:55:10.189Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-02T12:55:10.199Z INFO Installation path exists: /pythagora/
+2026-02-02T12:55:10.214Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-02T12:55:10.266Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-02T12:55:10.271Z INFO Database initialized successfully
+2026-02-02T12:55:10.276Z INFO [Migration] Checking for database migration...
+2026-02-02T12:55:14.636Z INFO [Migration] No migration needed
+2026-02-02T12:55:52.026Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T12:55:52.028Z INFO [MainProvider] First file opened, creating split view
+2026-02-02T13:12:14.376Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T13:12:14.378Z INFO [MainProvider] First file opened, creating split view
+2026-02-02T13:14:01.695Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T13:14:01.696Z INFO [MainProvider] First file opened, creating split view
+2026-02-02T14:09:32.457Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T14:09:32.458Z INFO [MainProvider] First file opened, creating split view
+2026-02-02T14:10:32.721Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T14:10:32.721Z INFO [MainProvider] First file opened, creating split view
+2026-02-02T14:14:36.119Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T14:14:36.121Z INFO [MainProvider] First file opened, creating split view
+2026-02-02T18:12:25.441Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T18:12:25.443Z INFO [MainProvider] First file opened, creating split view
+2026-02-02T18:15:27.084Z INFO [TabsManager] First file opened, triggering split view
+2026-02-02T18:15:27.085Z INFO [MainProvider] First file opened, creating split view
+2026-02-03T00:40:31.687Z INFO Closing entire Pythagora extension...
+2026-02-03T00:40:31.949Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-03T08:24:32.815Z INFO Is remote: false
+2026-02-03T08:24:32.818Z INFO Starting Local. Installation path: /pythagora/
+2026-02-03T08:24:32.821Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-03T08:24:32.824Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-03T08:24:32.827Z INFO Installation path exists: /pythagora/
+2026-02-03T08:24:32.829Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-03T08:24:32.839Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-03T08:24:32.840Z INFO Database initialized successfully
+2026-02-03T08:24:32.842Z INFO [Migration] Checking for database migration...
+2026-02-03T08:24:34.112Z INFO [Migration] No migration needed
+2026-02-03T08:38:43.633Z INFO [TabsManager] First file opened, triggering split view
+2026-02-03T08:38:43.636Z INFO [MainProvider] First file opened, creating split view
+2026-02-03T09:07:20.365Z INFO Closing entire Pythagora extension...
+2026-02-03T09:07:20.480Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-04T11:23:30.822Z INFO Is remote: false
+2026-02-04T11:23:30.825Z INFO Starting Local. Installation path: /pythagora/
+2026-02-04T11:23:30.826Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-04T11:23:30.830Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-04T11:23:30.833Z INFO Installation path exists: /pythagora/
+2026-02-04T11:23:30.834Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-04T11:23:30.870Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-04T11:23:30.871Z INFO Database initialized successfully
+2026-02-04T11:23:30.873Z INFO [Migration] Checking for database migration...
+2026-02-04T11:23:31.014Z INFO [TabsManager] First file opened, triggering split view
+2026-02-04T11:23:31.015Z INFO [MainProvider] First file opened, creating split view
+2026-02-04T11:23:31.736Z INFO [Migration] No migration needed
+2026-02-04T11:34:03.632Z INFO [TabsManager] First file opened, triggering split view
+2026-02-04T11:34:03.635Z INFO [MainProvider] First file opened, creating split view
+2026-02-04T12:09:30.471Z INFO [TabsManager] First file opened, triggering split view
+2026-02-04T12:09:30.472Z INFO [MainProvider] First file opened, creating split view
+2026-02-04T12:09:42.213Z INFO [TabsManager] First file opened, triggering split view
+2026-02-04T12:09:42.213Z INFO [MainProvider] First file opened, creating split view
+2026-02-04T13:29:09.156Z INFO Closing entire Pythagora extension...
+2026-02-04T13:29:09.243Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new OU (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120707)
+    at AE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125317)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122811)
+    at mA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at mA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:102115)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at kK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at kK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at kK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at UM.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at _s (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11135)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-05T13:11:57.313Z INFO Is remote: false
+2026-02-05T13:11:57.315Z INFO Starting Local. Installation path: /pythagora/
+2026-02-05T13:11:57.316Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-05T13:11:57.317Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-05T13:11:57.320Z INFO Installation path exists: /pythagora/
+2026-02-05T13:11:57.321Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-05T13:11:57.325Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-05T13:11:57.326Z INFO Database initialized successfully
+2026-02-05T13:11:57.326Z INFO [Migration] Checking for database migration...
+2026-02-05T13:11:58.026Z INFO [Migration] No migration needed
+2026-02-05T13:13:48.931Z INFO [TabsManager] First file opened, triggering split view
+2026-02-05T13:13:48.932Z INFO [MainProvider] First file opened, creating split view
+2026-02-05T13:21:25.410Z INFO [TabsManager] First file opened, triggering split view
+2026-02-05T13:21:25.411Z INFO [MainProvider] First file opened, creating split view
+2026-02-05T13:22:23.562Z INFO [TabsManager] First file opened, triggering split view
+2026-02-05T13:22:23.563Z INFO [MainProvider] First file opened, creating split view
+2026-02-05T13:41:02.119Z INFO Closing entire Pythagora extension...
+2026-02-05T13:41:02.186Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new Wj (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120928)
+    at kE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125538)
+    at Proxy.r.<computed>.n.charCodeAt.r.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123032)
+    at vA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at vA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:104946)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at GK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11880)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10030
+    at Array.map (<anonymous>)
+    at GK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10018)
+    at GK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10261)
+    at _N.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Ur (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11143)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-07T14:40:58.515Z INFO Is remote: false
+2026-02-07T14:40:58.517Z INFO Starting Local. Installation path: /pythagora/
+2026-02-07T14:40:58.518Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-07T14:40:58.520Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-07T14:40:58.523Z INFO Installation path exists: /pythagora/
+2026-02-07T14:40:58.524Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-07T14:40:58.529Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-07T14:40:58.530Z INFO Database initialized successfully
+2026-02-07T14:40:58.531Z INFO [Migration] Checking for database migration...
+2026-02-07T14:40:59.115Z INFO [Migration] No migration needed
+2026-02-07T14:41:31.307Z INFO [TabsManager] First file opened, triggering split view
+2026-02-07T14:41:31.309Z INFO [MainProvider] First file opened, creating split view
+2026-02-07T14:58:30.621Z INFO [TabsManager] First file opened, triggering split view
+2026-02-07T14:58:30.622Z INFO [MainProvider] First file opened, creating split view
+2026-02-07T15:01:25.004Z INFO [TabsManager] First file opened, triggering split view
+2026-02-07T15:01:25.006Z INFO [MainProvider] First file opened, creating split view
+2026-02-07T15:01:54.823Z INFO [TabsManager] First file opened, triggering split view
+2026-02-07T15:01:54.825Z INFO [MainProvider] First file opened, creating split view
+2026-02-07T15:01:57.804Z INFO [TabsManager] First file opened, triggering split view
+2026-02-07T15:01:57.805Z INFO [MainProvider] First file opened, creating split view
+2026-02-07T16:15:52.567Z INFO Closing entire Pythagora extension...
+2026-02-07T16:15:52.656Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new Wj (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120928)
+    at kE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125538)
+    at Proxy.r.<computed>.n.charCodeAt.r.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123032)
+    at vA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at vA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:104946)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at GK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11880)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10030
+    at Array.map (<anonymous>)
+    at GK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10018)
+    at GK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10261)
+    at _N.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Ur (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11143)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-08T05:20:45.299Z INFO Is remote: false
+2026-02-08T05:20:45.302Z INFO Starting Local. Installation path: /pythagora/
+2026-02-08T05:20:45.304Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-08T05:20:45.307Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-08T05:20:45.311Z INFO Installation path exists: /pythagora/
+2026-02-08T05:20:45.313Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-08T05:20:45.323Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-08T05:20:45.324Z INFO Database initialized successfully
+2026-02-08T05:20:45.335Z INFO [Migration] Checking for database migration...
+2026-02-08T05:20:46.730Z INFO [Migration] No migration needed
+2026-02-08T05:23:31.591Z INFO [TabsManager] First file opened, triggering split view
+2026-02-08T05:23:31.594Z INFO [MainProvider] First file opened, creating split view
+2026-02-08T05:26:23.560Z INFO [TabsManager] First file opened, triggering split view
+2026-02-08T05:26:23.562Z INFO [MainProvider] First file opened, creating split view
+2026-02-08T06:44:42.770Z INFO Closing entire Pythagora extension...
+2026-02-08T06:44:42.846Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new Wj (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120928)
+    at kE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125538)
+    at Proxy.r.<computed>.n.charCodeAt.r.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123032)
+    at vA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at vA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:104946)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at GK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11880)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10030
+    at Array.map (<anonymous>)
+    at GK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10018)
+    at GK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10261)
+    at _N.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Ur (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11143)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-08T06:45:46.286Z INFO Is remote: false
+2026-02-08T06:45:46.289Z INFO Starting Local. Installation path: /pythagora/
+2026-02-08T06:45:46.290Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-08T06:45:46.293Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-08T06:45:46.299Z INFO Installation path exists: /pythagora/
+2026-02-08T06:45:46.300Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-08T06:45:46.332Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-08T06:45:46.333Z INFO Database initialized successfully
+2026-02-08T06:45:46.334Z INFO [Migration] Checking for database migration...
+2026-02-08T06:45:46.975Z INFO [Migration] No migration needed
+2026-02-08T06:59:23.369Z INFO [TabsManager] First file opened, triggering split view
+2026-02-08T06:59:23.373Z INFO [MainProvider] First file opened, creating split view
+2026-02-08T07:00:20.940Z INFO Closing entire Pythagora extension...
+2026-02-08T07:00:21.060Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new Wj (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120928)
+    at kE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125538)
+    at Proxy.r.<computed>.n.charCodeAt.r.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123032)
+    at vA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at vA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:104946)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at GK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11880)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10030
+    at Array.map (<anonymous>)
+    at GK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10018)
+    at GK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10261)
+    at _N.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Ur (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11143)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+Extra context: {
+  "message": "Canceled"
+}
+2026-02-08T07:01:15.704Z INFO Is remote: false
+2026-02-08T07:01:15.706Z INFO Starting Local. Installation path: /pythagora/
+2026-02-08T07:01:15.708Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-08T07:01:15.709Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-08T07:01:15.711Z INFO Installation path exists: /pythagora/
+2026-02-08T07:01:15.712Z INFO Initializing database with URL: file:\pythagora\pythagora-core\data\database\pythagora.db
+2026-02-08T07:01:15.719Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-08T07:01:15.721Z INFO Database initialized successfully
+2026-02-08T07:01:15.722Z INFO [Migration] Checking for database migration...
+2026-02-08T07:01:16.459Z INFO [Migration] No migration needed
+2026-02-08T07:01:21.567Z INFO [TabsManager] First file opened, triggering split view
+2026-02-08T07:01:21.568Z INFO [MainProvider] First file opened, creating split view
+2026-02-08T07:02:37.018Z INFO [TabsManager] First file opened, triggering split view
+2026-02-08T07:02:37.020Z INFO [MainProvider] First file opened, creating split view
+2026-02-08T07:02:41.359Z INFO [TabsManager] First file opened, triggering split view
+2026-02-08T07:02:41.361Z INFO [MainProvider] First file opened, creating split view
+2026-02-08T07:08:49.048Z INFO Closing entire Pythagora extension...
+2026-02-08T07:08:49.123Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new Wj (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120928)
+    at kE.U (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125538)
+    at Proxy.r.<computed>.n.charCodeAt.r.<computed> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123032)
+    at vA.g (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+    at vA.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+    at Object.executeCommand (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:104946)
+    at closeEntirePythagoraExtension (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+    at Object.deactivate (c:\Users\Shylesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+    at GK.eb (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11880)
+    at file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10030
+    at Array.map (<anonymous>)
+    at GK.$ (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10018)
+    at GK.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10261)
+    at _N.terminate (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Ur (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11143)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Shylesh/AppData/Local/Programs/Microsoft%20VS%20Code/bdd88df003/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7610)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+Extra context: {
+  "message": "Canceled"
+}
