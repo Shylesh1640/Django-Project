@@ -45,6 +45,6 @@ A Django-based blog application with features for creating, managing, and displa
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10.x
 - Django 6.0.1
 - MySQL (mysqlclient)
